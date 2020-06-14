@@ -1,3 +1,6 @@
 *.bak
 *-bak
 sym-lib-table
+*.pdf
+_autosave*
+*-rescue.*
