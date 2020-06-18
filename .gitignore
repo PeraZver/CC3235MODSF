@@ -4,3 +4,5 @@ sym-lib-table
 *.pdf
 _autosave*
 *-rescue.*
+Datasheets/
+fp-info-cache
