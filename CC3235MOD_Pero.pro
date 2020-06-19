@@ -1,4 +1,4 @@
-update=06/19/20 22:11:09
+update=06/20/20 00:27:16
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=CC3235MOD_Pero.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
