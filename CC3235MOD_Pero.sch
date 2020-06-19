@@ -1356,4 +1356,8 @@ Wire Wire Line
 Connection ~ 1900 9500
 Wire Wire Line
 	1900 9500 3650 9500
+Text Label 13000 6700 0    50   ~ 0
+PI
+Text Label 13600 6700 0    50   ~ 0
+ANTENNA
 $EndSCHEMATC
