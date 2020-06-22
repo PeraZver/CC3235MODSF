@@ -1,4 +1,4 @@
-update=06/20/20 00:27:16
+update=06/22/20 20:22:46
 version=1
 last_client=kicad
 [general]
@@ -50,15 +50,15 @@ dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
 SilkLineWidth=0.15
-SilkTextSizeV=1
-SilkTextSizeH=1
+SilkTextSizeV=0.7999999999999999
+SilkTextSizeH=0.7999999999999999
 SilkTextSizeThickness=0.15
 SilkTextItalic=0
 SilkTextUpright=1
 CopperLineWidth=0.2
-CopperTextSizeV=1.5
-CopperTextSizeH=1.5
-CopperTextThickness=0.3
+CopperTextSizeV=1
+CopperTextSizeH=0.7999999999999999
+CopperTextThickness=0.2
 CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.15
@@ -254,7 +254,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=RF
 Clearance=0.2
-TrackWidth=0.82
+TrackWidth=1.08
 ViaDiameter=0.8
 ViaDrill=0.3
 uViaDiameter=0.3
