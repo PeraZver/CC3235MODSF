@@ -82,11 +82,11 @@ X GPIO12 9 1200 900 200 L 59 59 1 1 B
 ENDDRAW
 ENDDEF
 #
-# CC3235MOD_Pero-rescue_Conn_ARM_JTAG_SWD_10-Connector
+# CC3235MOD_Pero-rescue_Conn_ARM_JTAG_SWD_10-Connector-CC3235MOD_Pero-rescue
 #
-DEF CC3235MOD_Pero-rescue_Conn_ARM_JTAG_SWD_10-Connector J 0 40 Y Y 1 F N
+DEF CC3235MOD_Pero-rescue_Conn_ARM_JTAG_SWD_10-Connector-CC3235MOD_Pero-rescue J 0 40 Y Y 1 F N
 F0 "J" -100 650 50 H V R CNN
-F1 "CC3235MOD_Pero-rescue_Conn_ARM_JTAG_SWD_10-Connector" -100 550 50 H V R BNN
+F1 "CC3235MOD_Pero-rescue_Conn_ARM_JTAG_SWD_10-Connector-CC3235MOD_Pero-rescue" -100 550 50 H V R BNN
 F2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" 50 -550 50 H I L TNN
 F3 "" -350 -1250 50 V I C CNN
 $FPLIST
@@ -117,11 +117,11 @@ X GNDDetect 9 -100 -600 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# CC3235MOD_Pero-rescue_SP0503BAHT-Power_Protection
+# CC3235MOD_Pero-rescue_SP0503BAHT-Power_Protection-CC3235MOD_Pero-rescue
 #
-DEF CC3235MOD_Pero-rescue_SP0503BAHT-Power_Protection D 0 40 Y N 1 F N
+DEF CC3235MOD_Pero-rescue_SP0503BAHT-Power_Protection-CC3235MOD_Pero-rescue D 0 40 Y N 1 F N
 F0 "D" 225 100 50 H V L CNN
-F1 "CC3235MOD_Pero-rescue_SP0503BAHT-Power_Protection" 225 25 50 H V L CNN
+F1 "CC3235MOD_Pero-rescue_SP0503BAHT-Power_Protection-CC3235MOD_Pero-rescue" 225 25 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-143" 225 -50 50 H I L CNN
 F3 "" 125 125 50 H I C CNN
 $FPLIST
@@ -279,9 +279,9 @@ $FPLIST
  LED_THT:*
 $ENDFPLIST
 DRAW
-P 2 0 1 8 -50 -50 -50 50 N
+P 2 0 1 10 -50 -50 -50 50 N
 P 2 0 1 0 -50 0 50 0 N
-P 4 0 1 8 50 -50 50 50 -50 0 50 -50 F
+P 4 0 1 10 50 -50 50 50 -50 0 50 -50 F
 P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
 P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
 X K 1 -150 0 100 R 50 50 1 1 P
